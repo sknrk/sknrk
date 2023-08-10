@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="250"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0FF56cexcW2JAXCJj/giphy.gif" width="250"/>
-</div>
-
 <h1 align="center">Hi , I'm Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :man_technologist: About me
