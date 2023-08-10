@@ -10,7 +10,7 @@
 
 ## :man_technologist: About me
 
-- :school: I am a graduate of Istanbul University - Cerrahpaşa.
+- :school: I am a graduate of Istanbul University - Cerrahpasa.
 - :student: I’m currently learning: Machine Learning and other interesting technologies.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Connect with me
